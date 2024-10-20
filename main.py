@@ -11,7 +11,6 @@ conv_data_path = "conv_data/restaurant_1.json"
 
 ## Functions
 
-@st.cache_data
 def text_to_speech_segment(text):
     tts = gTTS(text=text, lang='fr')
     audio_fp = BytesIO()
@@ -20,14 +19,12 @@ def text_to_speech_segment(text):
     return AudioSegment.from_file(audio_fp, format="mp3")
 
 
-@st.cache_data
 def single_convo_segment(cnv_title, cnv_content):
     convo_segment = text_to_speech_segment(cnv_title + ".") + AudioSegment.silent(duration=1000)\
                      + text_to_speech_segment(cnv_content)
     return convo_segment
 
 
-@st.cache_data
 def decode_audio_segment(_audio_segment):
     audio_fp = BytesIO()
     _audio_segment.export(audio_fp, format="mp3")
@@ -37,8 +34,9 @@ def decode_audio_segment(_audio_segment):
 
 
 @st.cache_data
-def single_convo(_single_convo_segment):
-    return decode_audio_segment(_single_convo_segment)
+def single_convo(cnv_title, cnv_content):
+    segment = single_convo_segment(cnv_title, cnv_content)
+    return decode_audio_segment(segment)
 
 
 @st.cache_data
@@ -60,7 +58,7 @@ def load_conversation_data(conv_data_path):
 
 conversations = load_conversation_data(conv_data_path)
 
-st.write("Play entire list")
+st.write("Play the entire list")
 convo_segments = [single_convo_segment(convo['conv_title_fr'], convo['conv_content_fr']) for convo in conversations]
 st.audio(convo_playlist(convo_segments), format='audio/mp3')
 
@@ -75,5 +73,5 @@ for convo in conversations:
     colen.subheader(convo['conv_title_en'])
     colen.write(convo['conv_content_en'])
 
-    audio_file = single_convo(single_convo_segment(convo['conv_title_fr'], convo['conv_content_fr']))
+    audio_file = single_convo(convo['conv_title_fr'], convo['conv_content_fr'])
     c.audio(audio_file)
