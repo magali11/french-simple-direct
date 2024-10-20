@@ -1,0 +1,62 @@
+[
+	{
+		"conv_title_fr": "Commander un café",
+		"conv_content_fr": "- Bonjour, je voudrais un café, s'il vous plaît.\n- Bien sûr, un café. Vous le voulez comment ?\n- Noir, sans sucre.\n- Très bien, je vous apporte ça tout de suite.",
+		"conv_title_en": "Ordering a coffee",
+		"conv_content_en": "- Hello, I would like a coffee, please.\n- Of course, a coffee. How would you like it?\n- Black, no sugar.\n- Very well, I'll bring that right away."
+	},
+	{
+		"conv_title_fr": "Demander l'addition",
+		"conv_content_fr": "- Excusez-moi, l'addition, s'il vous plaît.\n- Oui, bien sûr. Je vous l'apporte immédiatement.\n- Merci beaucoup.\n- De rien, passez une bonne journée !",
+		"conv_title_en": "Asking for the bill",
+		"conv_content_en": "- Excuse me, the bill, please.\n- Yes, of course. I'll bring it right away.\n- Thank you very much.\n- You're welcome, have a great day!"
+	},
+	{
+		"conv_title_fr": "Choisir un dessert",
+		"conv_content_fr": "- Quels desserts avez-vous ?\n- Nous avons du tiramisu, une tarte aux pommes et une mousse au chocolat.\n- Je vais prendre la mousse au chocolat.\n- Excellent choix ! Je vous la prépare.",
+		"conv_title_en": "Choosing a dessert",
+		"conv_content_en": "- What desserts do you have?\n- We have tiramisu, apple pie, and chocolate mousse.\n- I'll take the chocolate mousse.\n- Excellent choice! I'll prepare it for you."
+	},
+	{
+		"conv_title_fr": "Réserver une table",
+		"conv_content_fr": "- Bonjour, je voudrais réserver une table pour deux personnes ce soir.\n- À quelle heure souhaitez-vous venir ?\n- À 19h, s'il vous plaît.\n- Très bien, c'est noté pour 19h.",
+		"conv_title_en": "Reserving a table",
+		"conv_content_en": "- Hello, I would like to reserve a table for two this evening.\n- What time would you like to come?\n- At 7 PM, please.\n- Very well, it's booked for 7 PM."
+	},
+	{
+		"conv_title_fr": "Demander un menu en anglais",
+		"conv_content_fr": "- Avez-vous un menu en anglais ?\n- Oui, bien sûr, je vous en apporte un tout de suite.\n- Merci, c'est gentil.\n- Avec plaisir.",
+		"conv_title_en": "Asking for an English menu",
+		"conv_content_en": "- Do you have a menu in English?\n- Yes, of course, I'll bring one right away.\n- Thank you, that's kind.\n- You're welcome."
+	},
+	{
+		"conv_title_fr": "Suggérer un plat",
+		"conv_content_fr": "- Que me conseillez-vous comme plat ?\n- Je vous recommande notre spécialité : le confit de canard.\n- D'accord, je vais essayer ça.\n- Vous allez adorer, c'est un excellent choix.",
+		"conv_title_en": "Suggesting a dish",
+		"conv_content_en": "- What do you recommend for a dish?\n- I recommend our specialty: duck confit.\n- Okay, I'll try that.\n- You'll love it, it's an excellent choice."
+	},
+	{
+		"conv_title_fr": "Commander du vin",
+		"conv_content_fr": "- Puis-je voir la carte des vins, s'il vous plaît ?\n- Bien sûr, la voici.\n- Je vais prendre un verre de vin rouge.\n- Très bien, je vous apporte ça.",
+		"conv_title_en": "Ordering wine",
+		"conv_content_en": "- Can I see the wine list, please?\n- Of course, here it is.\n- I'll have a glass of red wine.\n- Very well, I'll bring that for you."
+	},
+	{
+		"conv_title_fr": "Demander si le service est compris",
+		"conv_content_fr": "- Est-ce que le service est compris ?\n- Oui, le service est inclus dans l'addition.\n- D'accord, merci pour l'information.\n- Avec plaisir !",
+		"conv_title_en": "Asking if the service is included",
+		"conv_content_en": "- Is the service included?\n- Yes, the service is included in the bill.\n- Okay, thanks for the information.\n- You're welcome!"
+	},
+	{
+		"conv_title_fr": "Commander un plat végétarien",
+		"conv_content_fr": "- Avez-vous des plats végétariens ?\n- Oui, nous avons une salade de quinoa et un risotto aux légumes.\n- Je vais prendre le risotto, merci.\n- Très bon choix, je le note.",
+		"conv_title_en": "Ordering a vegetarian dish",
+		"conv_content_en": "- Do you have any vegetarian dishes?\n- Yes, we have a quinoa salad and vegetable risotto.\n- I'll take the risotto, thank you.\n- Great choice, I'll note that."
+	},
+	{
+		"conv_title_fr": "Demander de l'eau",
+		"conv_content_fr": "- Puis-je avoir une carafe d'eau, s'il vous plaît ?\n- Bien sûr, je vous l'apporte tout de suite.\n- Merci beaucoup.\n- Avec plaisir.",
+		"conv_title_en": "Asking for water",
+		"conv_content_en": "- Could I have a jug of water, please?\n- Of course, I'll bring it right away.\n- Thank you very much.\n- You're welcome."
+	}
+]
