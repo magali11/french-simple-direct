@@ -58,9 +58,14 @@ def load_conversation_data(conv_data_path):
 
 conversations = load_conversation_data(conv_data_path)
 
-st.write("Play the entire list")
+st.image("img/restaurant_1.png", use_column_width='always')
+st.header("In restaurant")
+
+st.write("Play all")
 convo_segments = [single_convo_segment(convo['conv_title_fr'], convo['conv_content_fr']) for convo in conversations]
 st.audio(convo_playlist(convo_segments), format='audio/mp3')
+
+st.divider()
 
 # Make a container for each conversation
 for convo in conversations:
@@ -74,4 +79,9 @@ for convo in conversations:
     colen.write(convo['conv_content_en'])
 
     audio_file = single_convo(convo['conv_title_fr'], convo['conv_content_fr'])
-    c.audio(audio_file)
+    cspl, cloop = c.columns(2, gap="small")
+
+    cspl.write(":black_right_pointing_triangle_with_double_vertical_bar: Play once")
+    cspl.audio(audio_file, loop=False)
+    cloop.write(":repeat: Play in a loop")
+    cloop.audio(audio_file, loop=True)
