@@ -1,0 +1,62 @@
+[
+   {
+      "conv_title_fr": "Demande de plus de légumes",
+      "conv_content_fr": "- Bonjour, je voudrais du poulet avec des légumes, s'il vous plaît. Mais pouvez-vous ajouter plus de légumes et moins de poulet ?\n- Bien sûr, madame. Quel légume préférez-vous ?\n- Un peu plus de brocoli et de carottes, s'il vous plaît.\n- Très bien, je vais m'en occuper.",
+      "conv_title_en": "Request for more vegetables",
+      "conv_content_en": "- Hello, I would like chicken with vegetables, please. But can you add more vegetables and less chicken?\n- Of course, madam. Which vegetable do you prefer?\n- A bit more broccoli and carrots, please.\n- Very well, I will take care of it."
+   },
+   {
+      "conv_title_fr": "Soupe trop froide",
+      "conv_content_fr": "- Excusez-moi, ma soupe est un peu froide. Pourriez-vous la réchauffer ?\n- Oh, je suis désolé ! Je vais la réchauffer tout de suite.\n- Merci beaucoup.\n- Voilà, c'est fait. Est-ce mieux maintenant ?\n- Oui, parfait, merci.",
+      "conv_title_en": "Soup too cold",
+      "conv_content_en": "- Excuse me, my soup is a bit cold. Could you warm it up?\n- Oh, I’m sorry! I’ll heat it up right away.\n- Thank you very much.\n- Here you go, it’s done. Is it better now?\n- Yes, perfect, thanks."
+   },
+   {
+      "conv_title_fr": "Moins de riz dans le plat",
+      "conv_content_fr": "- J'aimerais du bœuf avec du riz, mais est-il possible d'avoir moins de riz ?\n- Pas de problème, monsieur. Voulez-vous un accompagnement supplémentaire à la place ?\n- Oui, des légumes à la vapeur, s'il vous plaît.\n- Très bien, je m'en occupe.",
+      "conv_title_en": "Less rice in the dish",
+      "conv_content_en": "- I would like beef with rice, but is it possible to have less rice?\n- No problem, sir. Would you like an extra side instead?\n- Yes, some steamed vegetables, please.\n- Very well, I’ll take care of it."
+   },
+   {
+      "conv_title_fr": "Portion de canard plus petite",
+      "conv_content_fr": "- Bonjour, je voudrais du canard, mais est-ce possible d'avoir une demi-portion ?\n- Bien sûr, madame. Voulez-vous un accompagnement supplémentaire ?\n- Oui, un peu de chou, s'il vous plaît.\n- Très bien, je vous apporte ça.",
+      "conv_title_en": "Smaller portion of duck",
+      "conv_content_en": "- Hello, I would like the duck, but is it possible to have a half portion?\n- Of course, madam. Would you like an extra side?\n- Yes, some cabbage, please.\n- Very well, I’ll bring that to you."
+   },
+   {
+      "conv_title_fr": "Poulet avec moins de sel",
+      "conv_content_fr": "- Je voudrais du poulet, mais pouvez-vous le préparer avec moins de sel ?\n- Oui, bien sûr. Vous voulez que je l'assaisonne autrement ?\n- Un peu de poivre et des herbes, s'il vous plaît.\n- Très bien, je vais m'en occuper.",
+      "conv_title_en": "Chicken with less salt",
+      "conv_content_en": "- I would like chicken, but can you prepare it with less salt?\n- Yes, of course. Would you like me to season it differently?\n- A bit of pepper and herbs, please.\n- Very well, I’ll take care of it."
+   },
+   {
+      "conv_title_fr": "Soupe plus chaude demandée",
+      "conv_content_fr": "- Excusez-moi, ma soupe est tiède. Est-il possible de la rendre plus chaude ?\n- Je suis désolé, je vais la réchauffer tout de suite.\n- Merci beaucoup.\n- Voilà, elle est bien chaude maintenant.\n- Parfait, merci !",
+      "conv_title_en": "Request for hotter soup",
+      "conv_content_en": "- Excuse me, my soup is lukewarm. Is it possible to make it hotter?\n- I’m sorry, I’ll warm it up right away.\n- Thank you very much.\n- Here you go, it’s nice and hot now.\n- Perfect, thanks!"
+   },
+   {
+      "conv_title_fr": "Plus de légumes que de viande",
+      "conv_content_fr": "- Bonjour, je voudrais l'assiette de bœuf, mais pouvez-vous mettre plus de légumes que de viande ?\n- Bien sûr, quels légumes préférez-vous ?\n- Des haricots verts et du brocoli, s'il vous plaît.\n- Très bien, je vais m'en charger.",
+      "conv_title_en": "More vegetables than meat",
+      "conv_content_en": "- Hello, I would like the beef plate, but can you put more vegetables than meat?\n- Of course, which vegetables do you prefer?\n- Green beans and broccoli, please.\n- Very well, I’ll take care of it."
+   },
+   {
+      "conv_title_fr": "Demande de poisson sans sauce",
+      "conv_content_fr": "- Bonjour, je voudrais le poisson, mais est-il possible de le servir sans sauce ?\n- Oui, bien sûr. Voulez-vous un peu de citron à la place ?\n- Oui, ça serait parfait. Merci !\n- D'accord, je vous apporte ça.",
+      "conv_title_en": "Request for fish without sauce",
+      "conv_content_en": "- Hello, I would like the fish, but is it possible to serve it without sauce?\n- Yes, of course. Would you like some lemon instead?\n- Yes, that would be perfect. Thank you!\n- Okay, I’ll bring that for you."
+   },
+   {
+      "conv_title_fr": "Plat avec moins de viande",
+      "conv_content_fr": "- Je voudrais l'assiette de canard, mais est-il possible d'avoir moins de viande ?\n- Pas de souci, vous voulez un peu plus de légumes à la place ?\n- Oui, plus de chou et de carottes, s'il vous plaît.\n- Très bien, je vais le faire.",
+      "conv_title_en": "Dish with less meat",
+      "conv_content_en": "- I would like the duck plate, but is it possible to have less meat?\n- No problem, would you like a bit more vegetables instead?\n- Yes, more cabbage and carrots, please.\n- Very well, I’ll do that."
+   },
+   {
+      "conv_title_fr": "Demande d'un demi-riz",
+      "conv_content_fr": "- Bonjour, je voudrais le plat de poulet avec du riz, mais est-il possible d'avoir seulement une demi-portion de riz ?\n- Bien sûr, voulez-vous un autre accompagnement pour compenser ?\n- Non, merci, ça ira comme ça.\n- Très bien, je vous sers ça.",
+      "conv_title_en": "Request for half portion of rice",
+      "conv_content_en": "- Hello, I would like the chicken with rice, but is it possible to have only a half portion of rice?\n- Of course, would you like another side to make up for it?\n- No, thank you, that will be fine.\n- Very well, I’ll serve that for you."
+   }
+]
