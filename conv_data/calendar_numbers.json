@@ -1,0 +1,20 @@
+[
+   {
+      "conv_title_fr":"Nombres de 1 à 20",
+      "conv_content_fr":"Un, Deux, Trois, Quatre, Cinq, Six, Sept, Huit, Neuf, Dix, Onze, Douze, Treize, Quatorze, Quinze, Seize, Dix-sept, Dix-huit, Dix-neuf, Vingt.",
+      "conv_title_en":"Numbers from 1 to 20",
+      "conv_content_en":"Numbers from 1 to 20"
+   },
+   {
+      "conv_title_fr":"Jours de la semaine",
+      "conv_content_fr":"Lundi, Mardi, Mercredi, Jeudi, Vendredi Samedi, Dimanche.",
+      "conv_title_en":"Days of the week",
+      "conv_content_en":"Monday, Tuesday, Wednesday, Thursday, Friday Saturday, Sunday."
+   },
+   {
+      "conv_title_fr":"Mois",
+      "conv_content_fr":"Janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre.",
+      "conv_title_en":"Months",
+      "conv_content_en":"January, February, March, April, May, June, July, August, September, October, November, December."
+   }
+]

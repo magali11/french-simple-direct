@@ -10,5 +10,10 @@ page_conf = {
         "title": "Fussy restaurant client",
         "himage": "img/restaurant_2.png",
         "content": "conv_data/restaurant_2.json"
+    },
+    "cal_nums":{
+        "title": "Numbers & calendar",
+        "himage": "img/cal_and_nums.png",
+        "content": "conv_data/calendar_numbers.json"
     }
 }
