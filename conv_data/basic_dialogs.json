@@ -1,0 +1,62 @@
+[
+   {
+      "conv_title_fr": "Rencontre pour la première fois",
+      "conv_content_fr": "- Bonjour ! Comment ça va ?\n- Bonjour ! Très bien, merci. Et vous ?\n- Moi aussi, merci. Enchanté de vous rencontrer.\n- Enchanté également.",
+      "conv_title_en": "Meeting for the first time",
+      "conv_content_en": "- Hello! How are you?\n- Hello! Very well, thank you. And you?\n- Me too, thank you. Nice to meet you.\n- Nice to meet you too."
+   },
+   {
+      "conv_title_fr": "Présentations",
+      "conv_content_fr": "- Bonjour, je m'appelle Marie. Et vous ?\n- Bonjour Marie, je m'appelle Pierre.\n- Enchantée, Pierre.\n- Enchanté, Marie.",
+      "conv_title_en": "Introductions",
+      "conv_content_en": "- Hello, my name is Marie. And you?\n- Hello Marie, my name is Pierre.\n- Nice to meet you, Pierre.\n- Nice to meet you, Marie."
+   },
+   {
+      "conv_title_fr": "Demander de répéter",
+      "conv_content_fr": "- Excusez-moi, pouvez-vous répéter, s'il vous plaît ?\n- Oui, bien sûr. Je disais : « Comment vous appelez-vous ? »\n- Ah, merci ! Je m'appelle Lucie.",
+      "conv_title_en": "Asking to repeat",
+      "conv_content_en": "- Excuse me, can you repeat, please?\n- Yes, of course. I was saying: “What is your name?”\n- Ah, thank you! My name is Lucie."
+   },
+   {
+      "conv_title_fr": "Dire qu'on ne comprend pas",
+      "conv_content_fr": "- Je suis désolé, je ne comprends pas.\n- Pas de problème. Voulez-vous que je parle plus lentement ?\n- Oui, s'il vous plaît. Merci.",
+      "conv_title_en": "Saying you don’t understand",
+      "conv_content_en": "- I'm sorry, I don’t understand.\n- No problem. Would you like me to speak more slowly?\n- Yes, please. Thank you."
+   },
+   {
+      "conv_title_fr": "Demander de parler plus lentement",
+      "conv_content_fr": "- Excusez-moi, pouvez-vous parler plus lentement ?\n- Oui, bien sûr. Désolé, j'allais trop vite.",
+      "conv_title_en": "Asking to speak more slowly",
+      "conv_content_en": "- Excuse me, can you speak more slowly?\n- Yes, of course. Sorry, I was going too fast."
+   },
+   {
+      "conv_title_fr": "Dire qu'on ne parle pas bien français",
+      "conv_content_fr": "- Je suis désolé, je ne parle pas bien français.\n- Ce n'est pas grave, vous parlez très bien !\n- Merci, j'essaie.",
+      "conv_title_en": "Saying you don’t speak French well",
+      "conv_content_en": "- I'm sorry, I don’t speak French well.\n- That's okay, you speak very well!\n- Thank you, I try."
+   },
+   {
+      "conv_title_fr": "Demander comment dire quelque chose",
+      "conv_content_fr": "- Comment dit-on « book » en français ?\n- On dit « livre ».\n- Ah, merci beaucoup !",
+      "conv_title_en": "Asking how to say something",
+      "conv_content_en": "- How do you say “book” in French?\n- You say “livre”.\n- Ah, thank you very much!"
+   },
+   {
+      "conv_title_fr": "Demander l'heure",
+      "conv_content_fr": "- Excusez-moi, quelle heure est-il ?\n- Il est 15h30.\n- Merci !",
+      "conv_title_en": "Asking for the time",
+      "conv_content_en": "- Excuse me, what time is it?\n- It’s 3:30 PM.\n- Thank you!"
+   },
+   {
+      "conv_title_fr": "Demander où est quelque chose",
+      "conv_content_fr": "- Excusez-moi, où est la gare ?\n- La gare est à deux rues d'ici, allez tout droit.\n- Merci beaucoup !",
+      "conv_title_en": "Asking where something is",
+      "conv_content_en": "- Excuse me, where is the train station?\n- The station is two blocks (two streets away) from here, go straight ahead.\n- Thank you very much!"
+   },
+   {
+      "conv_title_fr": "Exprimer qu'on est perdu",
+      "conv_content_fr": "- Je suis perdu, pouvez-vous m'aider ?\n- Bien sûr, où voulez-vous aller ?\n- Je cherche la rue de la République.",
+      "conv_title_en": "Saying you're lost",
+      "conv_content_en": "- I'm lost, can you help me?\n- Of course, where do you want to go?\n- I'm looking for Rue de la République."
+   }
+]

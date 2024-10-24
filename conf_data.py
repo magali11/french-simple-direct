@@ -15,5 +15,10 @@ page_conf = {
         "title": "Numbers & calendar",
         "himage": "img/cal_and_nums.png",
         "content": "conv_data/calendar_numbers.json"
+    },
+    "basic_dialogs":{
+        "title": "Basic dialogs",
+        "himage": "img/basic_dialogs.png",
+        "content": "conv_data/basic_dialogs.json"
     }
 }
