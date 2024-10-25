@@ -1,0 +1,170 @@
+[
+   {
+      "sentences_group_fr":"Le verbe 'être'",
+      "sentences_group_en":"The verb 'to be'",
+      "content":[
+         {
+            "sentence_fr":"Je suis étudiant.",
+            "sentence_en":"I am a student."
+         },
+         {
+            "sentence_fr":"Tu es drôle !",
+            "sentence_en":"You are funny!"
+         },
+         {
+            "sentence_fr":"Il est intelligent.",
+            "sentence_en":"He is smart."
+         },
+         {
+            "sentence_fr":"Elle est médecin.",
+            "sentence_en":"She is a doctor."
+         },
+         {
+            "sentence_fr":"On est prêts pour la fête !",
+            "sentence_en":"We are ready for the party!"
+         },
+         {
+            "sentence_fr":"Nous sommes contents de te voir.",
+            "sentence_en":"We are happy to see you."
+         },
+         {
+            "sentence_fr":"Vous êtes très gentil.",
+            "sentence_en":"You are very kind."
+         },
+         {
+            "sentence_fr":"Ils sont en vacances.",
+            "sentence_en":"They are on vacation."
+         },
+         {
+            "sentence_fr":"Elles sont amies depuis longtemps.",
+            "sentence_en":"They have been friends for a long time."
+         }
+      ]
+   },
+   {
+      "sentences_group_fr":"Le verbe 'avoir'",
+      "sentences_group_en":"The verb 'to have'",
+      "content":[
+         {
+            "sentence_fr":"J'ai un livre.",
+            "sentence_en":"I have a book."
+         },
+         {
+            "sentence_fr":"Tu as une belle maison.",
+            "sentence_en":"You have a beautiful house."
+         },
+         {
+            "sentence_fr":"Il a un chien.",
+            "sentence_en":"He has a dog."
+         },
+         {
+            "sentence_fr":"Elle a une voiture rouge.",
+            "sentence_en":"She has a red car."
+         },
+         {
+            "sentence_fr":"On a de la chance !",
+            "sentence_en":"We are lucky!"
+         },
+         {
+            "sentence_fr":"Nous avons un examen demain.",
+            "sentence_en":"We have an exam tomorrow."
+         },
+         {
+            "sentence_fr":"Vous avez beaucoup d'amis.",
+            "sentence_en":"You have many friends."
+         },
+         {
+            "sentence_fr":"Ils ont une grande maison.",
+            "sentence_en":"They have a big house."
+         },
+         {
+            "sentence_fr":"Elles ont des idées intéressantes.",
+            "sentence_en":"They have interesting ideas."
+         }
+      ]
+   },
+   {
+      "sentences_group_fr":"Le verbe 'aller'",
+      "sentences_group_en":"The verb 'to go'",
+      "content":[
+         {
+            "sentence_fr":"Je vais à l'école.",
+            "sentence_en":"I go to school."
+         },
+         {
+            "sentence_fr":"Tu vas au marché.",
+            "sentence_en":"You go to the market."
+         },
+         {
+            "sentence_fr":"Il va au bureau.",
+            "sentence_en":"He goes to the office."
+         },
+         {
+            "sentence_fr":"Elle va à la bibliothèque.",
+            "sentence_en":"She goes to the library."
+         },
+         {
+            "sentence_fr":"On va au cinéma ce soir.",
+            "sentence_en":"We are going to the movies tonight."
+         },
+         {
+            "sentence_fr":"Nous allons en France cet été.",
+            "sentence_en":"We are going to France this summer."
+         },
+         {
+            "sentence_fr":"Vous allez à la plage demain.",
+            "sentence_en":"You are going to the beach tomorrow."
+         },
+         {
+            "sentence_fr":"Ils vont au restaurant.",
+            "sentence_en":"They are going to the restaurant."
+         },
+         {
+            "sentence_fr":"Elles vont faire du shopping.",
+            "sentence_en":"They are going shopping."
+         }
+      ]
+   },
+   {
+      "sentences_group_fr":"Le verbe'aimer'",
+      "sentences_group_en":"The verb 'to like'",
+      "content":[
+         {
+            "sentence_fr":"J'aime les films.",
+            "sentence_en":"I like movies."
+         },
+         {
+            "sentence_fr":"Tu aimes le chocolat.",
+            "sentence_en":"You like chocolate."
+         },
+         {
+            "sentence_fr":"Il aime la musique classique.",
+            "sentence_en":"He likes classical music."
+         },
+         {
+            "sentence_fr":"Elle aime danser.",
+            "sentence_en":"She likes to dance."
+         },
+         {
+            "sentence_fr":"On aime sortir le week-end.",
+            "sentence_en":"We like going out on the weekend."
+         },
+         {
+            "sentence_fr":"Nous aimons les voyages.",
+            "sentence_en":"We like traveling."
+         },
+         {
+            "sentence_fr":"Vous aimez les livres de science-fiction.",
+            "sentence_en":"You like science fiction books."
+         },
+         {
+            "sentence_fr":"Ils aiment le sport.",
+            "sentence_en":"They like sports."
+         },
+         {
+            "sentence_fr":"Elles aiment les animaux.",
+            "sentence_en":"They like animals."
+         }
+      ]
+   }
+]

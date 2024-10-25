@@ -20,5 +20,10 @@ page_conf = {
         "title": "Basic dialogs",
         "himage": "img/basic_dialogs.png",
         "content": "conv_data/basic_dialogs.json"
+    },
+    "present_tense_sentences":{
+        "title": "Present tense – conjugation",
+        "himage": "img/present_tense_sentences.png",
+        "content": "conv_data/present_tense_sentences.json"
     }
 }

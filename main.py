@@ -15,6 +15,7 @@ pages = [
     st.Page('pages/in_restaurant.py', title=page_conf['in_restaurant']['title']),
     st.Page('pages/fussy_client.py', title=page_conf['fussy_client']['title']),
     st.Page('pages/calendar_numbers.py', title=page_conf['cal_nums']['title']),
+    st.Page('pages/present_tense_sentences.py', title=page_conf['present_tense_sentences']['title'])
 ]
 
 pg = st.navigation(pages)
