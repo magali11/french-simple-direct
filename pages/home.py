@@ -1,5 +1,4 @@
 import streamlit as st
-# from main import pages
 
 st.image("img/french_direct_logo.png")
 
@@ -30,5 +29,3 @@ a <span style="background-color: rgba(30, 115, 250, 0.5); padding: 0 3px 0 3px">
 <span style="background-color: rgba(30, 115, 250, 0.5); padding: 0 3px 0 3px">immersive</span> approach that brings French to life. 
 Why wait to speak? Start now – let’s make French <em>votre deuxième langue</em>!
 ''')
-
-

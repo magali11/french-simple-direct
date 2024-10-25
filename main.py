@@ -1,7 +1,6 @@
 import streamlit as st
 from conf_data import page_conf
 
-## Display the main page
 st.set_page_config(page_title="French Direct", page_icon="./img/french_direct_icon.png")
 
 st.logo(
